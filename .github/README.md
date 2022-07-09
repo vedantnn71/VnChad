@@ -1,4 +1,4 @@
-<h1 align="center">NvChad</h1>
+<h1 align="center">VnChad - NvChad, for my workflow</h1>
 
 <div align="center">
 	<a href="https://nvchad.github.io/">Home</a>
